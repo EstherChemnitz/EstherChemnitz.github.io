@@ -1,0 +1,14 @@
+{
+  "hash": "3d4e483ab02c10e34866fef2df908d0a",
+  "result": {
+    "markdown": "---\ntitle: \"Esther Chemnitz\"\nabout: \n  template: jolla\n  image: my_website/images/img_1\n---\n\n\nThis is a Quarto website.\n\nHello my name is Esther.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
