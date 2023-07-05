@@ -1,34 +1,38 @@
 project:
   type: website
-
+  output-dir: docs
+  
 website:
   title: "Esther Chemnitz"
-  navbar: 
-    favicon: logo.png
-    twitter-card: true
-    site-url: https://example.com
-      
-    left:
-      - href: index.qmd #the reference for the link
-        text: Home #this is the name for the link
-      - about.qmd
+  #open-graph: true #controls the behavior of preview? metadata? only relevant if image specified?
+  favicon: images/sky_fav.jpg
+  search: false
+
+  navbar:
+    background: "#aaddff"
+    logo: images/sky_nav.png
+    title: false #removes Esther Chemnitz from left side of navbar
+    right:
+      - publications.qmd
       - projects.qmd
-      
-    tools:
-      - icon: twitter
-        href: https://twitter.com
-      - icon: github
-        menu:
-          - text: Source Code
-            url:  https://code.com
-          - text: Report a Bug
-            url:  https://bugs.com
+      - teaching.qmd
+     
+    #tools:
+      #- icon: twitter
+       # href: https://twitter.com/esther_chemnitz
+      #- icon: github
+        #href: https://github.com/EstherChemnitz
+        #link-external-newwindow and target do not work in navbar - change in template by removing not(.nav-link)
+    
+    sidebar: false
 
 format:
   html:
     theme: lux
     css: styles.css
-    toc: true
+    toc: false
+    smooth-scroll: true
 
 editor: visual
+
 

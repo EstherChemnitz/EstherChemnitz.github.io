@@ -7,5 +7,20 @@
   },
   "projects.qmd": {
     "projects.html": "8b9ae05c"
+  },
+  "noter_til_hjemmeside.qmd": {
+    "noter_til_hjemmeside.html": "5ee43377"
+  },
+  "publications.qmd": {
+    "publications.html": "5cd9e311"
+  },
+  "teaching.qmd": {
+    "teaching.html": "208d94c4"
+  },
+  "projects/project 2.qmd": {
+    "project 2.html": "580f4172"
+  },
+  "projects/project1.qmd": {
+    "project1.html": "18073500"
   }
 }

@@ -1,6 +1,0 @@
----
-title: "About"
----
-
-
-This is a page where you can read about me.

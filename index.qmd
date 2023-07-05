@@ -1,8 +1,34 @@
 ---
 title: "Esther Chemnitz"
-about: 
+image: images/imgsky.jpg
+about:
   template: trestles
-  image: images/duty_calls.png
+  image-width: 10em
+  image-shape: rectangle
+  links: 
+    - icon: envelope
+      text: e-mail
+      href: "mailto:echemnitz@ps.au.dk"
+      target: "_blank" 
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/esther_chemnitz
+      target: "_blank"
+    - icon: github
+      text: GitHub
+      href: https://github.com/EstherChemnitz
+      target: "_blank"
 ---
 
-Hello my name is Esther.
+Hello, my name is Esther Chemnitz. I'm a Ph.D. fellow at [the Department of Political Science at Aarhus University](https://ps.au.dk/en/){target="_blank"}, where I work with fantastic colleagues on the research project [ROPH (Research on Online Political Hostility)](https://ps.au.dk/forskning/forskningsprojekter/research-on-online-political-hostility){target="_blank"}.
+
+My academic background is a patchwork with a BA in Media studies, a short detour around political science, and an MA in Cognition and Communication from the University of Copenhagen. I was even a cabinet maker at one point.
+
+What occupies me at the moment is to understand *when* public online conversations are possible from a pragmatic or language-use perspective.
+
+
+My interest in this topic reflects my academic background. I draw on the cognitive literature on language use and interactive processes in conversation (see eg. [Herbert Clark](https://web.stanford.edu/~clark/){target="_blank"}, Deanna Wilkes Gibbs, [Susan Brennan](https://scholar.google.co.uk/citations?user=sGPW9jAAAAAJ&hl=en){target="_blank"}). And on the work of media scholars like [danah boyd](https://www.danah.org/){target="_blank"}, [Alice Marwick](https://datasociety.net/people/marwick-alice/page/1/){target="_blank"}, [Eden Litt](https://scholar.google.com/citations?user=6qVhz2YAAAAJ&hl=en){target="_blank"}, [Ezster Hargittai](https://www.eszter.com/){target="_blank"}, [Joshua Meyrowitz](https://scholar.google.com/citations?user=K2t9ozcAAAAJ&hl=en){target="_blank"}, [Nancy Baym](https://www.nancybaym.com/){target="_blank"} and many others.
+
+I am a strong proponent of interdisciplinarity and I believe that research should be (and inevitably is) a collaborative process. My thoughts and ideas are not created in a vaccuum, rather they are continuously fed by other scholars, by popular culture and from observing the world around me.
+
+I also have two kids under 6 who keep me busy when I am not working.

@@ -1,0 +1,17 @@
+---
+title: "The angry internet"
+subtitle: "A threat to gender equality, democracy & well-being"
+date: "November 2020"
+format: 
+  html:
+    link-external-newwindow: true
+    link-external-filter: ^(?:https:)\/estherchemnitz\.org\/custom
+---
+This was a project initiated by the Nordic Council of Ministers, which requested an assessment of the extent of online misogyny and antifeminism in the Nordic countries. It was carried out by the [Centre for Digital Youth Care](https://cfdp.dk/){target="_blank"} and by [Analyse & Tal, f.m.b.a.](https://www.ogtal.dk/){target="_blank"}. I contributed with research on the cognitive aspects that allow some groups to uphold misperceptions as well as the potential effects of attempting to correct their views (see pre-print on this topic under [Publications](https://estherchemnitz.github.io/publications)) I was also a part of the Expert Advisory Board.
+
+[![cfdp_report](project1_files/project1img/cfdp_img.png){fig-align="right"}](https://cfdp.dk/wp-content/uploads/2020/11/CFDP_the_angry_internet_ISSUE.pdf){target=“_blank”}
+
+     
+<!--#hvordan ændrer jeg previewet af det her? -->
+
+<!--#hvordan laver jeg billedet til et link? Hvordan vælger jeg placeringen i markdown versionen? -->l
